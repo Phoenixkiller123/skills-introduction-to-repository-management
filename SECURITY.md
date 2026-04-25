@@ -1,17 +1,3 @@
-# Security Policy
-
-## Supported Versions
-
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
 # Mergington High School Security Policy
 
 ## Reporting a Vulnerability
@@ -34,6 +20,12 @@ since it contains student information. If you discover a security vulnerability,
 - We will acknowledge receipt of your report within 2 school days
 - We will provide an initial assessment within 5 school days
 - Critical issues affecting student data will be addressed immediately
+- We will create a private fork to solve the issue and invite you as a collaborator so you can see our progress and contribute.
+
+## Thank You
+
+Your help in keeping our school's digital resources secure is greatly appreciated!
+Responsible disclosure of security vulnerabilities helps protect our entire school community.
 - We will create a private fork to solve the issue and invite you as a collaborator so you can see our progress and contribute.
 
 ## Thank You
